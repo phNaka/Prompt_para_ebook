@@ -11,3 +11,5 @@ Para a imagem, foi utilizado o seguinte prompt:
 <Prompt_imagem>
 crie uma imagem de um cofre de porquinho com alguns cifrões, com fundo escuro, no formato de retrato e a imagem deve ser colocada na parte inferior da imagem.
 </Prompt_imagem>
+
+O ebook foi formatado no Canva.
